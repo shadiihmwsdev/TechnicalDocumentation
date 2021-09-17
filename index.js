@@ -1,5 +1,5 @@
 const projectName = 'technical-JS-docs-page';
-localStorage.setItem('responsive_project', 'Technical JS Docs Page');
+localStorage.setItem('projectName', 'index.html');
 
 function scrollNav() {
     $('a').click(function(){  
